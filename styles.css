@@ -1,5 +1,5 @@
 body { /* Solid color */
-    background-image: '20201107_173042[1].jpg';  /* Add an image */
+    background-image: url('20201107_173042[1].jpg');  /* Add an image */
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
