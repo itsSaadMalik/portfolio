@@ -1,0 +1,9 @@
+body {
+    background-color: lightblue;  /* Solid color */
+    background-image: url('background.jpg');  /* Add an image */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
