@@ -10,6 +10,7 @@ body { /* Solid color */
  nav {
     background-color: #333;
     padding: 10px 0;
+    box-shadow: #333;size: 200;align-self: self-end;
     text-align: center;
 }
 
